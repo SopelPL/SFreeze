@@ -1,0 +1,6 @@
+main: pl.sopelplyt.sfreeze.Main
+name: SFreeze
+version: 1.0
+author: SopelPL
+commands:
+  freeze:
